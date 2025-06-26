@@ -1,3 +1,3 @@
 # TensorFlow course
 
-- [Image classificaiton using Tensorflow Keras](image_classification/)
+- [Image classificaiton using Tensorflow Keras](Image_classification/)
